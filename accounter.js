@@ -10,7 +10,7 @@ class Accounter{
 
 display(){
     this.input1.position(150,200);
-    this.input2.position(250,200);
+    this.input2.position(50,200);
     this.input2.hide();
     this.button1.position(150,240);
     this.button2.position(350,50);
